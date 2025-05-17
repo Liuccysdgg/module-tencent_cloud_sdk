@@ -17,3 +17,5 @@ mkdir build -p
 cd build
 cmake ..
 make
+
+cp -f libtencent_cloud_sdk.so ../target
